@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.markbook",
     "sha256_cert_fingerprints": [
-      "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+      "2A:49:E6:42:95:D1:07:FD:16:B8:FF:46:E8:5F:73:5A:9A:DB:9E:FC:9B:B4:E7:97:33:8D:10:28:D8:EA:E6:CE"
     ]
   }
 }]
